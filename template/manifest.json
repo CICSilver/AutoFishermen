@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "id": "float_template",
+      "path": "float_template.png",
+      "category": "combined",
+      "match_mode": "combined",
+      "candidate_threshold": 0.52,
+      "tracking_threshold": 0.55
+    },
+    {
+      "id": "float_template_2",
+      "path": "float_template_2.png",
+      "category": "combined",
+      "match_mode": "combined",
+      "candidate_threshold": 0.7,
+      "tracking_threshold": 0.62
+    },
+    {
+      "id": "float_template_3",
+      "path": "float_template_3.png",
+      "category": "combined",
+      "match_mode": "combined",
+      "candidate_threshold": 0.7,
+      "tracking_threshold": 0.60
+    }
+  ]
+}

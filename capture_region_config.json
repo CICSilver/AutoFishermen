@@ -1,0 +1,46 @@
+{
+  "monitor": {
+    "left": 0,
+    "top": 0,
+    "width": 3840,
+    "height": 2160
+  },
+  "capture_region": {
+    "left": 1194,
+    "top": 241,
+    "width": 1526,
+    "height": 1085,
+    "right": 2720,
+    "bottom": 1326
+  },
+  "relative_to_primary_monitor": {
+    "left": 1194,
+    "top": 241,
+    "width": 1526,
+    "height": 1085
+  },
+  "center_reference": {
+    "screen_center_x": 1920.0,
+    "screen_center_y": 1080.0,
+    "selection_center_x": 1957.0,
+    "selection_center_y": 783.5,
+    "offset_x_from_screen_center": 37.0,
+    "offset_y_from_screen_center": -296.5,
+    "is_exact_screen_center_region": false
+  },
+  "matcher_defaults": {
+    "fps": 10.0,
+    "threshold": 0.46,
+    "max_candidates": 3,
+    "sound_threshold": 80.0,
+    "sound_notification_duration": 2.0,
+    "enable_sound_monitor": true,
+    "save_candidate_dataset": false,
+    "dataset_dir": "data",
+    "show_preview": true
+  },
+  "matcher_args": {
+    "region": "--left 1194 --top 241 --region-width 1526 --region-height 1085",
+    "centered_region": null
+  }
+}
